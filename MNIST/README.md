@@ -1,0 +1,1 @@
+This project uses the [dataset](https://www.kaggle.com/oddrationale/mnist-in-csv/) prepared by Daniel Dato on Kaggle.

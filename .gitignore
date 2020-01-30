@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/BinaryClassification/obj
+/BinaryClassification/bin/Debug/netcoreapp2.2
+/BinaryClassification/.vs/BinaryClassification
+/LoadingData/.vs/LoadingData
+/LoadingData/LoadingData/obj
+/LoadingData/LoadingData/bin/Debug/netcoreapp2.2
+/MNIST/.vs/MNIST
+/MNIST/obj
+/MNIST/bin/Debug/netcoreapp2.2
+/SpamDetection/obj
+/SpamDetection/bin/Debug/netcoreapp2.2
+/SpamDetection/.vs/SpamDetection
+/TaxiPricePrediction/obj
+/TaxiPricePrediction/bin/Debug/netcoreapp2.2
+/TaxiPricePrediction/.vs/TaxiPricePrediction
